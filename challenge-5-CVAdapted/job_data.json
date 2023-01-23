@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Critical Software",
+    "start_date": 2017,
+    "end_date": 2021,
+    "type": "job",
+    "role": "Project Engineer",
+    "description": "Java backend developer in two projects to an international client in the energy sector",
+    "responsibilities": "Implementation of features, unit and integration testing features, decisions on architecture and code structure",
+    "technologies": "Java EE 8, spring, maven, MySQL, Unit, Mockito",
+    "comments": "Second home, really enjoyed it"
+  },
+  {
+    "name": "Blip",
+    "start_date": 2021,
+    "end_date": 2021,
+    "type": "job",
+    "role": "Backend Software Engineer",
+    "description": "Backend developer in the feeds platform using Scala",
+    "responsibilities": "Learning scala and learning my values",
+    "technologies": "Scala, Storm, Kafka",
+    "comments": "Scala, burn out and wrong values"
+  },
+  {
+    "name": "Zuhlke",
+    "start_date": 2021,
+    "end_date": 2022,
+    "type": "job",
+    "role": "Advanced Software Engineer",
+    "description": "Backend engineer in Swisscom project related to migration of email service.",
+    "responsibilities": "Mentoring colleagues in bench project",
+    "technologies": "Java, spring, maven, PostgreSQL",
+    "comments": "Boring project, boring project colleagues, just want to learn iOS"
+  },
+  {
+    "name": "FEUP",
+    "start_date": 2019,
+    "end_date": 2021,
+    "type": "degree",
+    "role": "Master in Software Engineering",
+    "description": "Student-worker in master degree with support from Critical Software",
+    "responsibilities": "Student to justify company investment and keeping performance at work",
+    "technologies": "Java, Spring, Python, Swift",
+    "comments": "Dissertation: User centered classification of iOS vision accessibility problems"
+  },
+  {
+    "name": "My Health Diary",
+    "start_date": 2020,
+    "end_date": 2020,
+    "type": "degree",
+    "role": "Lead backend developer and architecture",
+    "description": "Project to local hospital to digitize patients management of headache diaries",
+    "responsibilities": "Implement and test backend features, lead backend team and coordinate with front end and mobile teams the better architecture for easing their work, also GDPR compliance",
+    "technologies": "Java, spring-boot, maven, MySQL",
+    "comments": "I did the whole backend basically and helped colleagues, also coordinating the team with Catarina"
+  },
+  {
+    "name": "FEP",
+    "start_date": 2008,
+    "end_date": 2014,
+    "type": "degree",
+    "role": "Bachelor in Economics and Master in Management",
+    "description": "My background education in economics and management",
+    "responsibilities": "Studying and learning",
+    "technologies": "Product focus, people management, importance of culture and vision",
+    "comments": "Master thesis about Charismatic Leadership: a comparative analysis of Steve Jobs and José Mourinho"
+  },
+  {
+    "name": "AccessiTab",
+    "start_date": 2021,
+    "end_date": 2022,
+    "type": "project",
+    "role": "Product owner and only developer",
+    "description": "iOS app to allow blind people to read guitar tabs accessibly",
+    "responsibilities": "Envision the product, implement it with scalable and solid architecture and test it",
+    "technologies": "SwiftUI, combine",
+    "comments": "Next step: represent bends and leggattos"
+  },
+  {
+    "name": "SwiftUI",
+    "start_date": 2020,
+    "end_date": 2021,
+    "type": "project",
+    "role": "Student",
+    "description": "100 days of SwiftUI, by Hacking with Swift",
+    "responsibilities": "Learn Paul Hudson’s course",
+    "technologies": "Swift UI",
+    "comments": "Put in practice in AccessiTab project"
+  },
+  {
+    "name": "UIKit",
+    "start_date": 2022,
+    "end_date": 2022,
+    "type": "project",
+    "role": "Student",
+    "description": "100 days of UIKit, by Hacking with Swift",
+    "responsibilities": "Learn Paul Hudson’s course",
+    "technologies": "UIKit",
+    "comments": "Still learning, this app is part of day 59, however instead of countries I decided to focus on my CV"
+  }
+]
